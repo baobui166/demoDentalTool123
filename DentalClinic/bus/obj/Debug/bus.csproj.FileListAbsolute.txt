@@ -1,0 +1,15 @@
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\bus.dll.config
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\bus.dll
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\bus.pdb
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\dal.dll
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\EntityFramework.dll
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\EntityFramework.SqlServer.dll
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\dal.pdb
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\dal.dll.config
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\EntityFramework.xml
+D:\1duannhakhoa\DentalClinic\bus\bin\Debug\EntityFramework.SqlServer.xml
+D:\1duannhakhoa\DentalClinic\bus\obj\Debug\bus.csproj.AssemblyReference.cache
+D:\1duannhakhoa\DentalClinic\bus\obj\Debug\bus.csproj.CoreCompileInputs.cache
+D:\1duannhakhoa\DentalClinic\bus\obj\Debug\bus.csproj.CopyComplete
+D:\1duannhakhoa\DentalClinic\bus\obj\Debug\bus.dll
+D:\1duannhakhoa\DentalClinic\bus\obj\Debug\bus.pdb
